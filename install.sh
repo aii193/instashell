@@ -1,3 +1,4 @@
+git clone https://github.com/thelinuxchoice/instashell.git
 #!/bin/bash
 #Author: github.com/thelinuxchoice
 #Instagram: @thelinuxchoice
